@@ -1,12 +1,11 @@
 ---
 title: "Works"
 permalink: /works/
-toc: true
-toc_label: "Works"
-toc_sticky: true
 author_profile: false
 
 ---
+{% include toc %}
+
 # Vocal/Choral music
 
   * Nun's Dance, for mixed choir (2021)
