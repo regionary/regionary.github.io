@@ -2,8 +2,8 @@
 title: "Works"
 permalink: /works/
 toc: true
-toc_label: ""
-toc_sticky: false
+toc_label: "Works"
+toc_sticky: true
 author_profile: false
 
 ---
