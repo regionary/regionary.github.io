@@ -13,7 +13,7 @@ His compositions (individual works and collaborative works) have been featured a
 Joogwang started composing in 2011 when he entered Seoul National University. In 2012 he began his music studies at the same university with Shinuh Lee. He finished his bachelor studies in composition in 2018 as well as his International Relations studies. He is currently living in Boston, United States, where he pursues his doctoral degree in composition at Boston University under the tutelage of Richard Cornell, Ketty Nez and Joshua Fineberg.'
 
 ---
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/900x600.jpg){: .align-right}
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/500x333.jpg){: .align-right}
     
 {% include feature_row id="intro" type="center" %}    
     
