@@ -1,8 +1,8 @@
 ---
 title: ""
 permalink: /contact/
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 toc_label: ""
 author_profile: false
 ---
