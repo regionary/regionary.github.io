@@ -12,6 +12,7 @@ Vocal/Choral music
 Pamyati Druga (in memory of a friend) for mixed choir (2020)
 
 Musika, for 12 voices (2020)
+
 Song of the Overgrown, for voice and piano (2019)
 My grace is sufficient for thee, for mixed choir (2018)
 Return to the LORD, for mixed choir and orchestra (2018)
@@ -20,8 +21,7 @@ Lord, save lost lambs for male choir (2016)
 8 little songs for voice and piano (2016)
 Music with electronics
 
-Day’s end, for electronics (2020)
-Die unsichtbare Nacht, for electronics (2020)
+Day’s end, for electronics (2020)Die unsichtbare Nacht, for electronics (2020)
 _.PAra_siTE, for electronics (2020)
 Acoustidynamic II, for electronics and game controller (2019)
 Radio énigmatique, musique concrète for 2-channel audio (2018)
