@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 permalink: /about/
 title: # "About"
 toc: false
