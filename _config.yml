@@ -281,11 +281,11 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "_pages"
-      type: pages
+      path: ""
+      type: posts
     values:
       layout: single
-      author_profile: # false
+      author_profile: false
       read_time: true
       comments: # true
       share: true
