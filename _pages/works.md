@@ -9,15 +9,16 @@ toc_label: Vocal & Choral
 ---
 ## Vocal/Choral music
 
-  * 원숭이 엉덩이는 (Monkey Ass) for mixed choir (2021)
-  * Pamyati Druga (in memory of a friend) for mixed choir (2020)
+  * Nun's Dance, for mixed choir (2021)
+  * 원숭이 엉덩이는 (Monkey Ass), for mixed choir (2021)
+  * Pamyati Druga (in memory of a friend), for mixed choir (2020)
   * Musika, for 12 voices (2020)
   * Song of the Overgrown, for voice and piano (2019)
   * My grace is sufficient for thee, for mixed choir (2018)
   * Return to the LORD, for mixed choir and orchestra (2018)
   * The Snow, for mixed choir and piano (2018)
-  * Lord, save lost lambs for male choir (2016)
-  * 8 little songs for voice and piano (2016)
+  * Lord, save lost lambs, for male choir (2016)
+  * 8 little songs, for voice and piano (2016)
 
 ## Music with electronics
 
