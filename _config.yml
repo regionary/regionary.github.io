@@ -297,8 +297,8 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
-      classes: wide
+      author_profile: false
+      classes: single
 
   # _foo
   - scope:
