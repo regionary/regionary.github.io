@@ -4,13 +4,11 @@ permalink: /about/
 title: # "About"
 toc: false
 author_profile: false
-classes: single
-
 
 ---
 article.page {
     float: left;
-    width: 50%;
+    width: 100%;
 }
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/500x333.jpg){: .align-right}
