@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "About"
-    url: "https://github.com/regionary/regionary.github.io/blob/3727acc39f9e2a3d6b34393768503183b29c1356/docs/_pages/about.md"
+    url: "/about/"
   - title: "Works"
-    url: "https://github.com/regionary/regionary.github.io/blob/master/docs/_pages/works.md"
+    url: "/works/"
   - title: "Media"
   #   url: /year-archive/
   - title: "Events & News"
