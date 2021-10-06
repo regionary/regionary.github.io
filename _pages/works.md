@@ -6,7 +6,9 @@ toc: true
 
 ---
 
-# Vocal/Choral music
+
+
+## Vocal/Choral music
 
   * Nun's Dance, for mixed choir (2021)
   * 원숭이 엉덩이는 (Monkey Ass), for mixed choir (2021)
@@ -19,7 +21,7 @@ toc: true
   * Lord, save lost lambs, for male choir (2016)
   * 8 little songs, for voice and piano (2016)
 
-# Music with electronics
+## Music with electronics
 
   * Day’s end, for electronics (2020)Die unsichtbare Nacht, for electronics (2020)
   * _.PAra_siTE, for electronics (2020)
@@ -29,7 +31,7 @@ toc: true
   * Confessum, for tape, ensemble and electronics (2017)
   * Spectro-Continuum, for electronics and lights (2017)
 
-# Music with solo instruments
+## Music with solo instruments
 
   * Theme and BHariations for piano (2020)
   * Tongtong for piano/vibraphone (2020)
@@ -43,7 +45,7 @@ toc: true
   * “huin balambyeog-i iss-eo” (There are white walls) for piano solo (2015)
   * Variation on a theme “Falalalan” for alto saxophone solo (2014)
 
-# Instrumental Chamber music
+## Instrumental Chamber music
 
   * Trio for clarinet, violin and violoncello (2020)
   * Prelude (or Postlude?) for string quartet (2020)
@@ -62,7 +64,7 @@ toc: true
   * Blank forest for string trio (2015)
   * Aerodynamic for flute, clarinet, french horn and bassoon (2015)
 
-# Orchestral/Band music
+## Orchestral/Band music
   * Transpacific Flight, for orchestra (2021)
   * Trickster, for clarinet and orchestra (2017)
   * “Dongbaek”(Camellia) for marching band (2014)
