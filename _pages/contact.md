@@ -10,4 +10,4 @@ E-mail: joogwanglimcomposer@gmail.com
 
 Facebook: http://facebook.com/JoogwangLim
 
-Scores and parts are available on request.
+Please get in touch if you'd like to request scores/parts to my compositions, or commission a new work.
