@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "About"
-    url: /docs/_pages/about/
+    url: /about/
   - title: "Works"
-    url: /docs/_pages/works/
+    url: /works/
   - title: "Media"
   #   url: /year-archive/
   - title: "Events & News"
