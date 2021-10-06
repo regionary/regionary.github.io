@@ -104,15 +104,15 @@ author:
   name             : "Joogwang Lim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Composer"
-  location         : "Somewhere"
+  location         : 
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:joogwanglimcomposer@gmail.com"
-    - label: "Website"
+    - label: "Youtube"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://www.youtube.com/channel/UCOXFTmnrQpjh6nmEgyKAaeg"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
