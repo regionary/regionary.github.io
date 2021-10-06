@@ -4,8 +4,6 @@ permalink: /about/
 title: # "About"
 toc: false
 author_profile: false
-intro: 
-
 
 ---
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/500x333.jpg){: .align-right}
