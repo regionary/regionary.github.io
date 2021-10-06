@@ -67,4 +67,4 @@ toc: true
 ## Orchestral/Band music
   * Transpacific Flight, for orchestra (2021)
   * Trickster, for clarinet and orchestra (2017)
-  * “Dongbaek”(Camellia) for marching band (2014)
+  * Dongbaek for marching band (2014)
