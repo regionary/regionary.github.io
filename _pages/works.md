@@ -2,6 +2,7 @@
 title: "Works"
 permalink: /works/
 toc: true
+toc_label: ""
 author_profile: false
 
 ---
