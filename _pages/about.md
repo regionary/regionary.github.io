@@ -6,10 +6,6 @@ toc: false
 author_profile: false
 
 ---
-article.page {
-    float: left;
-    width: 100%;
-}
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/500x333.jpg){: .align-right}
     
