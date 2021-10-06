@@ -9,4 +9,4 @@ main:
   - title: "Events & News"
   #   url: /collection-archive/
   - title: "Contact"
-  #   url: /sitemap/
+    url: /contact/
