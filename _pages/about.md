@@ -5,7 +5,7 @@ toc: false
 classes: wide
 author_profile: false
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
+  - url: /assets/images/MINO0026.jpg
     image_path: /assets/images/MINO0026.jpg
     alt: "Joogwang Lim"
     title: "Image 1 title caption"
