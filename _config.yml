@@ -111,7 +111,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:joogwanglimcomposer@gmail.com"
     - label: "Youtube"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-youtube"
       url: "https://www.youtube.com/channel/UCOXFTmnrQpjh6nmEgyKAaeg"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
