@@ -2,7 +2,7 @@
 title: "Works"
 permalink: /works/
 author_profile: false
-toc: false
+toc: true
 
 ---
 
