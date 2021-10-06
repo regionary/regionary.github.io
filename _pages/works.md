@@ -3,7 +3,9 @@ title: "Works"
 permalink: /works/
 toc: true
 toc_sticky: true
+author_profile: false
 toc_label: Vocal & Choral
+
 ---
 Vocal/Choral music
 
