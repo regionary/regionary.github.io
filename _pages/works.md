@@ -4,7 +4,6 @@ permalink: /works/
 author_profile: false
 
 ---
-{% include toc %}
 
 # Vocal/Choral music
 
