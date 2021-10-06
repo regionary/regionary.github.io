@@ -2,9 +2,7 @@
 title: "Works"
 permalink: /works/
 toc: true
-toc_sticky: false
 author_profile: false
-toc_label:
 
 ---
 ## Vocal/Choral music
