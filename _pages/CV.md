@@ -8,4 +8,4 @@ permalink: /CV/
 <br>
 Academic CV, May 2021 {: style="text-align: right;"}
 
-<embed src="https://regionary.github.io/assets/Curriculum Vitae.pdf.pdf" type="application/pdf" />
+<embed src="https://regionary.github.io/assets/Curriculum Vitae.pdf" type="application/pdf" />
