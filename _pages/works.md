@@ -4,6 +4,7 @@ permalink: /works/
 author_profile: false
 toc: true
 toc_label: "By Category"
+toc_sticky: true
 ---
 
 
