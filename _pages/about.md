@@ -6,7 +6,7 @@ toc: false
 author_profile: false
 
 ---
-[Bio]({{ site.url }}{{ site.baseurl }}/_pages/about){: .btn .btn--primary .btn--large} [CV]({{ site.url }}{{ site.baseurl }}/assets/CV){: .btn .btn--primary .btn--large}
+[Bio]({{ site.url }}{{ site.baseurl }}/_pages/about.md){: .btn .btn--primary .btn--large} [CV]({{ site.url }}{{ site.baseurl }}/_pages/CV.md){: .btn .btn--primary .btn--large}
 <br>
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/500x333.jpg){: .align-right}
     
