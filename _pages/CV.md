@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "CV"
-sitemap: false
+toc: false
 permalink: /CV/
 ---
 [Bio]({{ site.url }}{{ site.baseurl }}/_pages/about/){: .btn .btn--primary .btn--large} [CV]({{ site.url }}{{ site.baseurl }}/_pages/CV/){: .btn .btn--primary .btn--large}
