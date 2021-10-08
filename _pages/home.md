@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 classes:
   - dark-theme
-
+excerpt:
 gallery:
   - url: /assets/images/electro580x330.jpg
     image_path: /assets/images/electro580x330.jpg
@@ -20,6 +20,7 @@ gallery:
     title: ""
 
 ---
-
-
+<br>
+<br>
+<br>
 {% include gallery caption="" %}
