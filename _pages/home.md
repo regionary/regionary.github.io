@@ -22,5 +22,4 @@ gallery:
 ---
 <br>
 <br>
-<br>
 {% include gallery caption="" %}
