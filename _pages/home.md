@@ -2,16 +2,10 @@
 layout: splash
 permalink: /
 hidden: true
-header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/1200x700.png
-  overlay_filter: 0.5
 classes:
   - dark-theme
 ---
 
-feature_row:
-    
----
-
-{% include feature_row %}
+{% include figure image_path="/assets/images/electro580x330.jpg" alt="this is a placeholder image" caption="" %}
+{% include figure image_path="/assets/images/piano580x387.jpg" alt="this is a placeholder image" caption="" %}
+{% include figure image_path="/assets/images/outside500x667.jpg" alt="this is a placeholder image" caption="" %}
