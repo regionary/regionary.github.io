@@ -4,9 +4,9 @@ permalink: /about/
 title: # "About"
 toc: false
 author_profile: false
-
+{ site.baseurl }}{% link _posts/2016-07-26-name-of-post.md %
 ---
-[Bio]({{ site.url }}{{ site.baseurl }}/_pages/about/){: .btn .btn--primary .btn--large} [CV]({{ site.url }}{{ site.baseurl }}/_pages/CV/){: .btn .btn--primary .btn--large}
+[Bio]({{ site.baseurl }}/_pages/about.md/){: .btn .btn--primary .btn--large} [CV]({{ site.baseurl }}/_pages/CV.md/){: .btn .btn--primary .btn--large}
 <br>
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/500x333.jpg){: .align-right}
     
