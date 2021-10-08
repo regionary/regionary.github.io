@@ -6,7 +6,7 @@ toc: false
 author_profile: false
 
 ---
-[Bio]("https://regionary.github.io/about"){: .btn .btn--primary .btn--large} [CV]("https://regionary.github.io/assets/Curriculum Vitae.pdf"){: .btn .btn--primary .btn--large}
+[Bio](/_pages/about){: .btn .btn--primary .btn--large} [CV](assets/CV){: .btn .btn--primary .btn--large}
 <br>
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/500x333.jpg){: .align-right}
     
