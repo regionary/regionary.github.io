@@ -38,12 +38,12 @@ body {
 .page {
   @include breakpoint($large) {
     float: right;
-    width: 90%;
+    width: 100%;
     padding-right: $right-sidebar-width-narrow;
   }
 
   @include breakpoint($x-large) {
-    width: 90%;
+    width: 100%;
     padding-right: $right-sidebar-width;
   }
 
@@ -518,11 +518,11 @@ body {
 
   @include breakpoint($large) {
     float: right;
-    width: 90%;
+    width: 100%;
   }
 
   @include breakpoint($x-large) {
-    width: 90%;
+    width: 100%;
   }
 
   a {
