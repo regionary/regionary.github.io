@@ -3,7 +3,7 @@ title: "Works"
 permalink: /works/
 author_profile: false
 toc: true
-toc_label: "Works by Joogwang"
+toc_label: "By Category"
 ---
 
 
