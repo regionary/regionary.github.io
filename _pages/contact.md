@@ -8,13 +8,13 @@ author_profile: false
 ---
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/screen400x267.jpg){: .align-left}
 
-Please get in touch if you'd like to request scores/parts to my compositions, or commission a new work.
+<p style="font-size:90%;">Please get in touch if you'd like to request scores/parts to my compositions, or commission a new work.
 <br> Some of the services I provide include: 
   * Arranging 
   * Transcribing & Engraving
   * Composition or music theory lessons 
   * Mastering
-
+</p>
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mknkeeng" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label>
