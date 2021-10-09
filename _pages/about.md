@@ -20,6 +20,4 @@ His compositions (individual works and collaborative works) have been featured a
 
 Joogwang started composing in 2011 when he entered Seoul National University. In 2012 he began his music studies at the same university with Shinuh Lee. He finished his bachelor studies in composition in 2018 as well as his International Relations studies. He is currently living in Boston, United States, where he pursues his doctoral degree in composition at Boston University under the tutelage of Richard Cornell, Ketty Nez and Joshua Fineberg.
 {: style="text-align: justify;"}
-<br>
-<p style="font-size:80%; text-align:center;">© 2021 Joogwang Lim</p>
 
