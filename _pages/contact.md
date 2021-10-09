@@ -11,9 +11,8 @@ author_profile: false
 Please get in touch if you'd like to request scores/parts to my compositions, or commission a new work.
 Some of the services I provide include: 
 * Arranging 
-* Transcribing 
+* Transcribing & Engraving
 * Composition or music theory lessons 
-* Engraving
 * Mastering
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mknkeeng" method="post">
