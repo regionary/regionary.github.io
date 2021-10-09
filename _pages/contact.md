@@ -9,7 +9,7 @@ author_profile: false
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/screen400x267.jpg){: .align-left}
 
 Please get in touch if you'd like to request scores/parts to my compositions, or commission a new work.
-Some of the services I provide include: 
+<br> Some of the services I provide include: 
   * Arranging 
   * Transcribing & Engraving
   * Composition or music theory lessons 
