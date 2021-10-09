@@ -5,7 +5,8 @@ title: # "About"
 toc: false
 author_profile: false
 ---
-[Bio]({% link _pages/about.md %}){: .btn .btn--primary .btn--large} [CV]({% link _pages/CV.md %}){: .btn .btn--primary .btn--large}
+[Bio]({% link _pages/about.md %}){: .btn .btn--primary .btn--large}               [CV]({% link _pages/CV.md %}){: .btn .btn--primary .btn--large}
+{: style="text-align: justify;"}
 <br>
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/500x333.jpg){: .align-right}
     
