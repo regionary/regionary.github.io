@@ -133,7 +133,7 @@ footer:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:joogwanglimcomposer@gmail.com"
     - label: "Youtube"
-      icon: "fas fa-fw fa-youtube"
+      icon: "fab fa-fw fa-youtube-square"
       url: "https://www.youtube.com/channel/UCOXFTmnrQpjh6nmEgyKAaeg"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
