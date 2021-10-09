@@ -8,7 +8,7 @@ author_profile: false
 ---
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/screen400x267.jpg){: .align-left}
 
-<p style="font-size:90%;">Please get in touch if you'd like to request scores/parts to my compositions, or commission a new work.
+<p style="font-size:80%;">Please get in touch if you'd like to request scores/parts to my compositions, or commission a new work.
 <br> Some of the services I provide include, but not limited to: 
   * Arranging 
   * Transcribing & Engraving
