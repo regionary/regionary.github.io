@@ -5,10 +5,10 @@ title: # "About"
 toc: false
 author_profile: false
 ---
-<div>[CV]({% link _pages/CV.md %}){: .btn .btn--primary .btn--large}{: .align-right}     [Bio]({% link _pages/about.md %}){: .btn .btn--primary .btn--large}{: .align-right}<div/>
+[CV]({% link _pages/CV.md %}){: .btn .btn--primary .btn--large}{: .align-right}     [Bio]({% link _pages/about.md %}){: .btn .btn--primary .btn--large}{: .align-right}
 <hr>
 
-<div>![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/500x333.jpg){: .align-right}
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/500x333.jpg){: .align-right}
 Joogwang Lim (b.1992), is a South Korean composer. His main musical features can be summarized as a fusion between music and other ideas, such as myths, stories, plays, religious texts, ideologies, and even scientific theories. Especially, plots extracted from these ideas play an important role in his music. Along with his tendency of composing firm and complex structures from those plots, his music contains full of expressive components, such as texts, symbols, leitmotifs, and even theatrical and aleatory motions. In addition to that, he continues to reach a wide variety of genres, i.e. choral music to traditional Korean music, to express his diverse cultural, material and spiritual experiences.
 {: style="text-align: justify;"}
 
@@ -20,4 +20,4 @@ Joogwang started composing in 2011 when he entered Seoul National University. In
     
 
 <p style="font-size:80%;">© 2021 Joogwang Lim {: style="text-align: center;"}
-<div/>
+
