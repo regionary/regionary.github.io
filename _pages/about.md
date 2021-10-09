@@ -19,5 +19,5 @@ Joogwang started composing in 2011 when he entered Seoul National University. In
 {: style="text-align: justify;"}
     
 
-
+<p style="font-size:80%;">© 2021 Joogwang Lim {: style="text-align: center;"}
 ---
