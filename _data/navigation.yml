@@ -5,8 +5,8 @@ main:
   - title: "Works"
     url: /works/
   - title: "Blog"
-  #   url: /year-archive/
+ #   url: /year-archive/
   - title: "Events & News"
-  #   url: /collection-archive/
+    url: /year-archive/
   - title: "Contact"
     url: /contact/
