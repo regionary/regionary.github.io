@@ -4,8 +4,6 @@ main:
     url: /about/
   - title: "Works"
     url: /works/
-  - title: "Blog"
- #   url: /year-archive/
   - title: "Events & News"
     url: /year-archive/
   - title: "Contact"
