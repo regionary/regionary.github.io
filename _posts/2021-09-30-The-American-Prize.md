@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Musika was awarded by The American Prize"
+title: "Musika was awarded by The American Prize"
 categories:
   - Awards & Honors
 ---
