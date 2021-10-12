@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: splash
 title: "*Musika* was awarded by The American Prize"
 categories:
   - Awards & Honors
