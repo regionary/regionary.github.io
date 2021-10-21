@@ -1,6 +1,9 @@
 ---
 layout: null
 sitemap:
+  lastmod: 2021-10-23
+  priority: 0.7
+  changefreq: 'monthly'
   exclude: 'yes'
 ---
 <?xml version="1.0" encoding="UTF-8"?>
