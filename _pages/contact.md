@@ -5,6 +5,7 @@ toc: false
 toc_sticky: false
 toc_label: ""
 author_profile: false
+sitemap: true
 ---
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/screen400x267.jpg){: .align-left}
 
