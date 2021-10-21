@@ -18,7 +18,7 @@ gallery:
     image_path: /assets/images/outside580x380.jpg
     alt: "placeholder image 3"
     title: ""
-
+sitemap: true
 ---
 <br>
 <br>
