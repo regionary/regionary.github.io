@@ -4,6 +4,7 @@ permalink: /about/
 title: # "About"
 toc: false
 author_profile: false
+sitemap: true
 ---
 [CV]({% link _pages/CV.md %}){: .btn .btn--primary .btn--large}{: .align-right}     [Bio]({% link _pages/about.md %}){: .btn .btn--primary .btn--large}{: .align-right}
 <br>
