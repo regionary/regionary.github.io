@@ -8,15 +8,15 @@ excerpt:
 gallery:
   - url: /assets/images/electro580x330.jpg
     image_path: /assets/images/electro580x330.jpg
-    alt: "placeholder image 1"
+    alt: "Joogwang Lim 1"
     title: ""
   - url: /assets/images/piano580x387.jpg
     image_path: /assets/images/piano580x387.jpg
-    alt: "placeholder image 2"
+    alt: "Joogwang Lim 2"
     title: ""
   - url: /assets/images/outside580x380.jpg
     image_path: /assets/images/outside580x380.jpg
-    alt: "placeholder image 3"
+    alt: "Joogwang Lim 3"
     title: ""
 sitemap: true
 ---
