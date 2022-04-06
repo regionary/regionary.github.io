@@ -25,7 +25,8 @@ sitemap: true
 
 ## Music with electronics
 
-  * Day’s end, for electronics (2020)Die unsichtbare Nacht, for electronics (2020)
+  * Day’s end, for electronics (2020)
+  * Die unsichtbare Nacht, for electronics (2020)
   * _.PAra_siTE, for electronics (2020)
   * Acoustidynamic II, for electronics and game controller (2019)
   * Radio énigmatique, musique concrète for 2-channel audio (2018)
@@ -49,6 +50,7 @@ sitemap: true
 
 ## Instrumental Chamber music
 
+  * Dal-eun, for flute, clarinet, violin, viola, violoncello & percussion (2017/2022)
   * Trio for clarinet, violin and violoncello (2020)
   * Prelude (or Postlude?) for string quartet (2020)
   * Corrupted Image.png for chamber ensemble (2020)
@@ -59,7 +61,6 @@ sitemap: true
   * Colored Waves for flute, clarinet, violin and piano (2018)
   * 3, 2, 1, Go! for3 violoncellos/string trio (2018)
   * Giggle giggle, for melodica and Saenghwang (2017/2018)
-  * Darun, for chamber ensemble (2017/2021)
   * Sea Fragments, for bassoon and piano (2017)
   * “·, -, ■”(Dot, line & plane) for string quartet (2016)
   * The Last Question for trumpet, percussion and string ensemble (2016)
