@@ -24,7 +24,7 @@ He earned B.Mus. in composition in 2018 at Seoul National University and M.M. in
 
 
 
-Anti-bio
+Bonus: Below is the anti-bio written by ChatGPT.
 {: style="text-align: justify;"}
 Cited as "the most uninteresting composer" (by his non-musician friends), Joogwang Lim, born in 1992 in South Korea, is known for composing music that is notoriously difficult to perform, often demanding technical virtuosity from musicians for nothing. In his music, Joogwang Lim eschews traditional harmonic conventions, opting for dissonance and unconventional chord progressions. He challenges the concept of traditional phrasing, creating music that may seem disjointed and unpredictable, yet often fails to achieve his initial goals. 
 {: style="text-align: justify;"}
