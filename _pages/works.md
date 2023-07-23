@@ -12,7 +12,6 @@ sitemap: true
 
 ## Vocal/Choral music
 
-  * The moon is distant from the sea, for mezzo-soprano and piano (2022)
   * Nun's Dance, for mixed choir (2021)
   * 원숭이 엉덩이는 (Monkey Ass), for mixed choir (2021)
   * Pamyati Druga (in memory of a friend), for mixed choir (2020)
@@ -37,6 +36,7 @@ sitemap: true
 
 ## Music with solo instruments
 
+  * I lift up my eyes for viola (2022)
   * Theme and BHariations for piano (2020)
   * Tongtong for piano/vibraphone (2020)
   * Lencten for violin (2020)
@@ -47,6 +47,8 @@ sitemap: true
 
 ## Instrumental Chamber music
 
+  * Manufactured by, for ensemble (2023)
+  * So mashed up, for nine instruments (2023)
   * Dal-eun, for flute, clarinet, violin, viola, violoncello & percussion (2017/2022)
   * Trio for clarinet, violin and violoncello (2020)
   * Prelude (or Postlude?) for string quartet (2020)
